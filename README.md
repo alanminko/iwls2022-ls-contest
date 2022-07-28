@@ -24,7 +24,7 @@ Benchnmark ID | Function Category
 00-01 | Known random-looking functions
 02-07 | Random and decomposable random functions
 08-09 | s-box and inverse s-box from [here](https://en.wikipedia.org/wiki/Rijndael_S-box)
-10-15 | 5-input through 15-input [majority functions](https://en.wikipedia.org/wiki/Majority_function)
+10-15 | N-input [majority functions](https://en.wikipedia.org/wiki/Majority_function)
 16-27 | N-input N-output [binary sorters](https://en.wikipedia.org/wiki/Sorting_network)
 28-49 | Selected [Espresso benchmarks](https://ptolemy.berkeley.edu/projects/embedded/pubs/downloads/espresso/espresso-book-examples.tar.gz) with permuted inputs
 50-67 | Selected arithmetic functions with permuted inputs and dropped outputs
