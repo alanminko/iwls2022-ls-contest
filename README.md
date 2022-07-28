@@ -36,9 +36,9 @@ to be held next year may reuse the current benchmarks and/or propose similar one
 The goal of the future contest is expected to be similar (synthesizing minimal circuits) while allowing 
 for any two-input nodes (not only and-nodes, as in this year's contest).
   
-The details of the next year's contest (in particular, how two-input xor-nodes are saved in the AIGER format, 
-which by default only allows for two-input and-nodes) will be announced later. This preliminary announcement it 
-expected to motivate future participants to plan and prepare in advance.
+A detailed description of the next year's contest (in particular, how two-input xor-nodes are saved in the AIGER format, 
+which by default allows for two-input and-nodes only) will be announced later, while this preliminary announcement 
+is expected to motivate future participants to plan and prepare in advance.
 
 ---
 
