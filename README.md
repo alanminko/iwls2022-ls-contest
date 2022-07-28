@@ -30,15 +30,15 @@ Benchnmark ID | Function Category
 50-67 | Selected arithmetic functions with permuted inputs and dropped outputs
 68-99 | 12-input 3-output neurons from [LogicNets project](https://github.com/Xilinx/logicnets)
 
-Further details about the benchmarks is not disclosed to the public because the next year's contest 
-(IWLS 2023 Programming Contest) may reuse the current benchmarks and/or propose similar ones.
+Further details about the benchmarks is not disclosed to the public at this time because the next year's 
+contest (IWLS 2023 Programming Contest) may reuse the current benchmarks and/or propose similar ones.
 
 The goal of the future contest is expected to be similar (synthesizing minimal circuits) while allowing 
 for any two-input nodes (not only and-nodes, as in this year's contest).
   
-The details of the next year's contest (in particular, how two-input xor-nodes will be prepresented using 
-the AIGER format, which only allows for two-input and-nodes) will be announced later. This preliminary 
-announcement it expected to motivate future participants to plan and prepare in advance.
+The details of the next year's contest (in particular, how two-input xor-nodes are saved in the AIGER format, 
+which by default only allows for two-input and-nodes) will be announced later. This preliminary announcement it 
+expected to motivate future participants to plan and prepare in advance.
 
 ---
 
