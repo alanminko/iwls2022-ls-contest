@@ -5,7 +5,7 @@ the circuits produced by the participants in response to the challenge.
 
 The goal of the contest was to synthesize [AIGs](https://en.wikipedia.org/wiki/And-inverter_graph) 
 with the minimal number of two-input and-nodes for a set of completely-specified multi-output Boolean functions 
-represented using truth tables. The resulting AIGs were submited in [binary AIGER format](http://fmv.jku.at/aiger/).
+represented using truth tables. The AIGs were submited in [binary AIGER format](http://fmv.jku.at/aiger/).
 For the detailed information about the rules and the evaluation criteria, please refer to the 
 [contest description](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Programming_Contest.pdf).
 
@@ -17,7 +17,7 @@ and Walter Lau Neto (IWLS 2022 Contest Session Chair).
 
 ### Benchmarks
 
-The benchmarks available in this repository are composed of 100 functions in the text format, as follows: 
+The benchmarks available in this repository are composed of 100 functions in the text format: 
 
 Benchnmark ID | Function Category
 ------------- | -----------------
@@ -30,7 +30,7 @@ Benchnmark ID | Function Category
 50-67 | Selected arithmetic functions with permuted inputs and dropped outputs
 68-99 | 12-input 3-output neurons from [LogicNets project](https://github.com/Xilinx/logicnets)
 
-Further details about the benchmarks is temporarily withheld from the public because the next year's contest 
+Further details about the benchmarks is not disclosed to the public because the next year's contest 
 (IWLS 2023 Programming Contest) may reuse the current benchmarks and/or propose similar ones.
 
 The goal of the future contest is expected to be similar (synthesizing minimal circuits for a set of 
@@ -44,19 +44,19 @@ announcement it believed to be helpful because it gives future participants more
 
 ### Participants
 
-* Team EPFL (École Polytechnique Fédérale de Lausanne)
+* **Team EPFL** (École Polytechnique Fédérale de Lausanne)
   * Andrea Costamagna, Siang-Yun Lee, Alessandro Tempia Calvino, Hanyu Wang, Mingfei Yu, Professor Giovanni De Micheli
-* Team Fudan (Fudan University, Shanghai) 
+* **Team Fudan** (Fudan University, Shanghai) 
   * Yishan Zhang, Professor Chang Wu
-* Team NTU (National Taiwan University) 
+* **Team NTU** (National Taiwan University) 
   * Hao-Ren Wang, Guo-Wei He, Professor Jie-Hong Roland Jiang
-* Team TUW (Technische Universität Wien) 
+* **Team TUW** (Technische Universität Wien) 
   * Franz-Xaver Reichl, Friedrich Slivovsky, Stefan Szeider
-* Team UCAS (University of Chinese Academy of Sciences) 
+* **Team UCAS** (University of Chinese Academy of Sciences) 
   * Liwei Ni
-* Team UCB (University of California, Berkeley) 
+* **Team UCB** (University of California, Berkeley) 
   * Yukio Miyasaka
-* Team UFRGS/UFPEL (Federal University of Rio Grande do Sul / Federal University of Pelotas) 
+* **Team UFRGS/UFPEL** (Federal University of Rio Grande do Sul / Federal University of Pelotas) 
   * João Machado (UFPEL), Gabriel Ammes (UFRGS), Renato Peralta (UFRGS), Professor André Reis (UFRGS), Paulo Butzen (UFRGS), Leomar da Rosa (UFPEL), Professor Renato Ribas (UFRGS)
 
 ---
@@ -75,12 +75,12 @@ The results of the competition are summarized in the organizer's presentation
 
 The winners are the three teams who received the highest score according to the [contest rules](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Programming_Contest.pdf):
 
-* 1st place (score 9387) -- Team EPFL (École Polytechnique Fédérale de Lausanne) 
-  * Andrea Costamagna, Siang-Yun Lee, Alessandro Tempia Calvino, Hanyu Wang, Mingfei Yu, Professor Giovanni De Micheli
-* 2nd place (score 9117) -- Team UCB (University of California, Berkeley) 
-  * Yukio Miyasaka
-* 3rd place (score 8320) -- Team TUW (Technische Universität Wien) 
-  * Franz-Xaver Reichl, Friedrich Slivovsky, Stefan Szeider
+* **1st place** (score 9387) 
+  * Team EPFL
+* **2nd place** (score 9117) 
+  * Team UCB
+* **3rd place** (score 8320) 
+  * Team TUW
 
 Congratulations to the winners!
 
