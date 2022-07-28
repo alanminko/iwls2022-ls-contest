@@ -1,1 +1,300 @@
-
+abc - > read submissions/ucb/ex00.aig; print_stats; read_truth -xf benchmarks/ex00.truth; cec -n submissions/ucb/ex00.aig
+submissions/ucb/ex00          : i/o =    6/    1  lat =    0  and =     26  lev = 11
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex01.aig; print_stats; read_truth -xf benchmarks/ex01.truth; cec -n submissions/ucb/ex01.aig
+submissions/ucb/ex01          : i/o =    6/    1  lat =    0  and =     32  lev = 12
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex02.aig; print_stats; read_truth -xf benchmarks/ex02.truth; cec -n submissions/ucb/ex02.aig
+submissions/ucb/ex02          : i/o =    8/    1  lat =    0  and =     94  lev = 44
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex03.aig; print_stats; read_truth -xf benchmarks/ex03.truth; cec -n submissions/ucb/ex03.aig
+submissions/ucb/ex03          : i/o =    8/    1  lat =    0  and =     32  lev = 14
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex04.aig; print_stats; read_truth -xf benchmarks/ex04.truth; cec -n submissions/ucb/ex04.aig
+submissions/ucb/ex04          : i/o =   10/    1  lat =    0  and =    304  lev =103
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/ucb/ex05.aig; print_stats; read_truth -xf benchmarks/ex05.truth; cec -n submissions/ucb/ex05.aig
+submissions/ucb/ex05          : i/o =   10/    1  lat =    0  and =     62  lev = 17
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex06.aig; print_stats; read_truth -xf benchmarks/ex06.truth; cec -n submissions/ucb/ex06.aig
+submissions/ucb/ex06          : i/o =   12/    1  lat =    0  and =   1058  lev =309
+Networks are equivalent.  Time =     0.23 sec
+abc - > read submissions/ucb/ex07.aig; print_stats; read_truth -xf benchmarks/ex07.truth; cec -n submissions/ucb/ex07.aig
+submissions/ucb/ex07          : i/o =   12/    1  lat =    0  and =    195  lev = 57
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/ucb/ex08.aig; print_stats; read_truth -xf benchmarks/ex08.truth; cec -n submissions/ucb/ex08.aig
+submissions/ucb/ex08          : i/o =    8/    8  lat =    0  and =    544  lev =168
+Networks are equivalent.  Time =     0.03 sec
+abc - > read submissions/ucb/ex09.aig; print_stats; read_truth -xf benchmarks/ex09.truth; cec -n submissions/ucb/ex09.aig
+submissions/ucb/ex09          : i/o =    8/    8  lat =    0  and =    555  lev =185
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/ucb/ex10.aig; print_stats; read_truth -xf benchmarks/ex10.truth; cec -n submissions/ucb/ex10.aig
+submissions/ucb/ex10          : i/o =    5/    1  lat =    0  and =     12  lev =  5
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex11.aig; print_stats; read_truth -xf benchmarks/ex11.truth; cec -n submissions/ucb/ex11.aig
+submissions/ucb/ex11          : i/o =    7/    1  lat =    0  and =     24  lev = 10
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex12.aig; print_stats; read_truth -xf benchmarks/ex12.truth; cec -n submissions/ucb/ex12.aig
+submissions/ucb/ex12          : i/o =    9/    1  lat =    0  and =     40  lev = 13
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex13.aig; print_stats; read_truth -xf benchmarks/ex13.truth; cec -n submissions/ucb/ex13.aig
+submissions/ucb/ex13          : i/o =   11/    1  lat =    0  and =     60  lev = 19
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex14.aig; print_stats; read_truth -xf benchmarks/ex14.truth; cec -n submissions/ucb/ex14.aig
+submissions/ucb/ex14          : i/o =   13/    1  lat =    0  and =     84  lev = 25
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/ucb/ex15.aig; print_stats; read_truth -xf benchmarks/ex15.truth; cec -n submissions/ucb/ex15.aig
+submissions/ucb/ex15          : i/o =   15/    1  lat =    0  and =    110  lev = 28
+Networks are equivalent.  Time =     0.48 sec
+abc - > read submissions/ucb/ex16.aig; print_stats; read_truth -xf benchmarks/ex16.truth; cec -n submissions/ucb/ex16.aig
+submissions/ucb/ex16          : i/o =    5/    5  lat =    0  and =     20  lev =  7
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex17.aig; print_stats; read_truth -xf benchmarks/ex17.truth; cec -n submissions/ucb/ex17.aig
+submissions/ucb/ex17          : i/o =    6/    6  lat =    0  and =     30  lev =  9
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex18.aig; print_stats; read_truth -xf benchmarks/ex18.truth; cec -n submissions/ucb/ex18.aig
+submissions/ucb/ex18          : i/o =    7/    7  lat =    0  and =     42  lev = 12
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex19.aig; print_stats; read_truth -xf benchmarks/ex19.truth; cec -n submissions/ucb/ex19.aig
+submissions/ucb/ex19          : i/o =    8/    8  lat =    0  and =     56  lev = 14
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex20.aig; print_stats; read_truth -xf benchmarks/ex20.truth; cec -n submissions/ucb/ex20.aig
+submissions/ucb/ex20          : i/o =    9/    9  lat =    0  and =     72  lev = 19
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex21.aig; print_stats; read_truth -xf benchmarks/ex21.truth; cec -n submissions/ucb/ex21.aig
+submissions/ucb/ex21          : i/o =   10/   10  lat =    0  and =     90  lev = 20
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/ucb/ex22.aig; print_stats; read_truth -xf benchmarks/ex22.truth; cec -n submissions/ucb/ex22.aig
+submissions/ucb/ex22          : i/o =   11/   11  lat =    0  and =    110  lev = 22
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/ucb/ex23.aig; print_stats; read_truth -xf benchmarks/ex23.truth; cec -n submissions/ucb/ex23.aig
+submissions/ucb/ex23          : i/o =   12/   12  lat =    0  and =    132  lev = 27
+Networks are equivalent.  Time =     0.10 sec
+abc - > read submissions/ucb/ex24.aig; print_stats; read_truth -xf benchmarks/ex24.truth; cec -n submissions/ucb/ex24.aig
+submissions/ucb/ex24          : i/o =   13/   13  lat =    0  and =    156  lev = 34
+Networks are equivalent.  Time =     1.19 sec
+abc - > read submissions/ucb/ex25.aig; print_stats; read_truth -xf benchmarks/ex25.truth; cec -n submissions/ucb/ex25.aig
+submissions/ucb/ex25          : i/o =   14/   14  lat =    0  and =    182  lev = 33
+Networks are equivalent.  Time =     1.86 sec
+abc - > read submissions/ucb/ex26.aig; print_stats; read_truth -xf benchmarks/ex26.truth; cec -n submissions/ucb/ex26.aig
+submissions/ucb/ex26          : i/o =   15/   15  lat =    0  and =    210  lev = 37
+Networks are equivalent.  Time =     4.82 sec
+abc - > read submissions/ucb/ex27.aig; print_stats; read_truth -xf benchmarks/ex27.truth; cec -n submissions/ucb/ex27.aig
+submissions/ucb/ex27          : i/o =   16/   16  lat =    0  and =    240  lev = 41
+Networks are equivalent.  Time =    11.66 sec
+abc - > read submissions/ucb/ex28.aig; print_stats; read_truth -xf benchmarks/ex28.truth; cec -n submissions/ucb/ex28.aig
+submissions/ucb/ex28          : i/o =    7/   10  lat =    0  and =     47  lev = 16
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex29.aig; print_stats; read_truth -xf benchmarks/ex29.truth; cec -n submissions/ucb/ex29.aig
+submissions/ucb/ex29          : i/o =    9/    1  lat =    0  and =     49  lev = 16
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex30.aig; print_stats; read_truth -xf benchmarks/ex30.truth; cec -n submissions/ucb/ex30.aig
+submissions/ucb/ex30          : i/o =   14/    8  lat =    0  and =     69  lev = 14
+Networks are equivalent.  Time =     0.52 sec
+abc - > read submissions/ucb/ex31.aig; print_stats; read_truth -xf benchmarks/ex31.truth; cec -n submissions/ucb/ex31.aig
+submissions/ucb/ex31          : i/o =    9/   18  lat =    0  and =   1351  lev =373
+Networks are equivalent.  Time =     0.13 sec
+abc - > read submissions/ucb/ex32.aig; print_stats; read_truth -xf benchmarks/ex32.truth; cec -n submissions/ucb/ex32.aig
+submissions/ucb/ex32          : i/o =   15/    9  lat =    0  and =     47  lev = 13
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex33.aig; print_stats; read_truth -xf benchmarks/ex33.truth; cec -n submissions/ucb/ex33.aig
+submissions/ucb/ex33          : i/o =    5/   28  lat =    0  and =     88  lev = 40
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex34.aig; print_stats; read_truth -xf benchmarks/ex34.truth; cec -n submissions/ucb/ex34.aig
+submissions/ucb/ex34          : i/o =    9/    5  lat =    0  and =     58  lev = 32
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex35.aig; print_stats; read_truth -xf benchmarks/ex35.truth; cec -n submissions/ucb/ex35.aig
+submissions/ucb/ex35          : i/o =    7/    2  lat =    0  and =     15  lev =  7
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex36.aig; print_stats; read_truth -xf benchmarks/ex36.truth; cec -n submissions/ucb/ex36.aig
+submissions/ucb/ex36          : i/o =   10/   10  lat =    0  and =   1525  lev =392
+Networks are equivalent.  Time =     0.26 sec
+abc - > read submissions/ucb/ex37.aig; print_stats; read_truth -xf benchmarks/ex37.truth; cec -n submissions/ucb/ex37.aig
+submissions/ucb/ex37          : i/o =    8/   63  lat =    0  and =    151  lev = 53
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex38.aig; print_stats; read_truth -xf benchmarks/ex38.truth; cec -n submissions/ucb/ex38.aig
+submissions/ucb/ex38          : i/o =    8/    7  lat =    0  and =     33  lev = 18
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex39.aig; print_stats; read_truth -xf benchmarks/ex39.truth; cec -n submissions/ucb/ex39.aig
+submissions/ucb/ex39          : i/o =   14/   14  lat =    0  and =    208  lev = 63
+Networks are equivalent.  Time =     0.18 sec
+abc - > read submissions/ucb/ex40.aig; print_stats; read_truth -xf benchmarks/ex40.truth; cec -n submissions/ucb/ex40.aig
+submissions/ucb/ex40          : i/o =   16/   40  lat =    0  and =    196  lev = 29
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/ucb/ex41.aig; print_stats; read_truth -xf benchmarks/ex41.truth; cec -n submissions/ucb/ex41.aig
+submissions/ucb/ex41          : i/o =    5/    3  lat =    0  and =     17  lev =  8
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex42.aig; print_stats; read_truth -xf benchmarks/ex42.truth; cec -n submissions/ucb/ex42.aig
+submissions/ucb/ex42          : i/o =    7/    3  lat =    0  and =     35  lev = 15
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex43.aig; print_stats; read_truth -xf benchmarks/ex43.truth; cec -n submissions/ucb/ex43.aig
+submissions/ucb/ex43          : i/o =    8/    4  lat =    0  and =     47  lev = 14
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex44.aig; print_stats; read_truth -xf benchmarks/ex44.truth; cec -n submissions/ucb/ex44.aig
+submissions/ucb/ex44          : i/o =   10/    4  lat =    0  and =     64  lev = 28
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex45.aig; print_stats; read_truth -xf benchmarks/ex45.truth; cec -n submissions/ucb/ex45.aig
+submissions/ucb/ex45          : i/o =   16/   46  lat =    0  and =    214  lev = 37
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/ucb/ex46.aig; print_stats; read_truth -xf benchmarks/ex46.truth; cec -n submissions/ucb/ex46.aig
+submissions/ucb/ex46          : i/o =    5/    8  lat =    0  and =     34  lev = 11
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex47.aig; print_stats; read_truth -xf benchmarks/ex47.truth; cec -n submissions/ucb/ex47.aig
+submissions/ucb/ex47          : i/o =   16/    1  lat =    0  and =     25  lev =  6
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex48.aig; print_stats; read_truth -xf benchmarks/ex48.truth; cec -n submissions/ucb/ex48.aig
+submissions/ucb/ex48          : i/o =   14/   14  lat =    0  and =    470  lev =131
+Networks are equivalent.  Time =     0.10 sec
+abc - > read submissions/ucb/ex49.aig; print_stats; read_truth -xf benchmarks/ex49.truth; cec -n submissions/ucb/ex49.aig
+submissions/ucb/ex49          : i/o =    7/   10  lat =    0  and =     51  lev = 17
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex50.aig; print_stats; read_truth -xf benchmarks/ex50.truth; cec -n submissions/ucb/ex50.aig
+submissions/ucb/ex50          : i/o =    8/    2  lat =    0  and =     19  lev =  8
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex51.aig; print_stats; read_truth -xf benchmarks/ex51.truth; cec -n submissions/ucb/ex51.aig
+submissions/ucb/ex51          : i/o =    8/    2  lat =    0  and =     40  lev = 18
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex52.aig; print_stats; read_truth -xf benchmarks/ex52.truth; cec -n submissions/ucb/ex52.aig
+submissions/ucb/ex52          : i/o =    8/    2  lat =    0  and =     20  lev =  6
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex53.aig; print_stats; read_truth -xf benchmarks/ex53.truth; cec -n submissions/ucb/ex53.aig
+submissions/ucb/ex53          : i/o =    8/    2  lat =    0  and =     47  lev = 19
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex54.aig; print_stats; read_truth -xf benchmarks/ex54.truth; cec -n submissions/ucb/ex54.aig
+submissions/ucb/ex54          : i/o =    8/    2  lat =    0  and =     12  lev =  6
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex55.aig; print_stats; read_truth -xf benchmarks/ex55.truth; cec -n submissions/ucb/ex55.aig
+submissions/ucb/ex55          : i/o =    8/    7  lat =    0  and =    164  lev = 57
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex56.aig; print_stats; read_truth -xf benchmarks/ex56.truth; cec -n submissions/ucb/ex56.aig
+submissions/ucb/ex56          : i/o =   12/    3  lat =    0  and =     29  lev = 13
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex57.aig; print_stats; read_truth -xf benchmarks/ex57.truth; cec -n submissions/ucb/ex57.aig
+submissions/ucb/ex57          : i/o =   12/    3  lat =    0  and =    229  lev = 61
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/ucb/ex58.aig; print_stats; read_truth -xf benchmarks/ex58.truth; cec -n submissions/ucb/ex58.aig
+submissions/ucb/ex58          : i/o =   12/    3  lat =    0  and =     93  lev = 25
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex59.aig; print_stats; read_truth -xf benchmarks/ex59.truth; cec -n submissions/ucb/ex59.aig
+submissions/ucb/ex59          : i/o =   12/    3  lat =    0  and =    277  lev = 78
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/ucb/ex60.aig; print_stats; read_truth -xf benchmarks/ex60.truth; cec -n submissions/ucb/ex60.aig
+submissions/ucb/ex60          : i/o =   12/    3  lat =    0  and =     75  lev = 29
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex61.aig; print_stats; read_truth -xf benchmarks/ex61.truth; cec -n submissions/ucb/ex61.aig
+submissions/ucb/ex61          : i/o =   12/   11  lat =    0  and =   1875  lev =374
+Networks are equivalent.  Time =     4.57 sec
+abc - > read submissions/ucb/ex62.aig; print_stats; read_truth -xf benchmarks/ex62.truth; cec -n submissions/ucb/ex62.aig
+submissions/ucb/ex62          : i/o =   16/    4  lat =    0  and =     40  lev = 15
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex63.aig; print_stats; read_truth -xf benchmarks/ex63.truth; cec -n submissions/ucb/ex63.aig
+submissions/ucb/ex63          : i/o =   16/    4  lat =    0  and =    801  lev =191
+Networks are equivalent.  Time =     9.43 sec
+abc - > read submissions/ucb/ex64.aig; print_stats; read_truth -xf benchmarks/ex64.truth; cec -n submissions/ucb/ex64.aig
+submissions/ucb/ex64          : i/o =   16/    4  lat =    0  and =    442  lev =117
+Networks are equivalent.  Time =     0.08 sec
+abc - > read submissions/ucb/ex65.aig; print_stats; read_truth -xf benchmarks/ex65.truth; cec -n submissions/ucb/ex65.aig
+submissions/ucb/ex65          : i/o =   16/    4  lat =    0  and =   1580  lev =368
+Networks are equivalent.  Time =    16.11 sec
+abc - > read submissions/ucb/ex66.aig; print_stats; read_truth -xf benchmarks/ex66.truth; cec -n submissions/ucb/ex66.aig
+submissions/ucb/ex66          : i/o =   16/    4  lat =    0  and =    329  lev = 81
+Networks are equivalent.  Time =     0.03 sec
+abc - > read submissions/ucb/ex67.aig; print_stats; read_truth -xf benchmarks/ex67.truth; cec -n submissions/ucb/ex67.aig
+submissions/ucb/ex67          : i/o =   10/   77  lat =    0  and =   5028  lev =988
+Networks are equivalent.  Time =     0.95 sec
+abc - > read submissions/ucb/ex68.aig; print_stats; read_truth -xf benchmarks/ex68.truth; cec -n submissions/ucb/ex68.aig
+submissions/ucb/ex68          : i/o =   12/    3  lat =    0  and =    270  lev =101
+Networks are equivalent.  Time =     0.03 sec
+abc - > read submissions/ucb/ex69.aig; print_stats; read_truth -xf benchmarks/ex69.truth; cec -n submissions/ucb/ex69.aig
+submissions/ucb/ex69          : i/o =   12/    3  lat =    0  and =    255  lev = 88
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/ucb/ex70.aig; print_stats; read_truth -xf benchmarks/ex70.truth; cec -n submissions/ucb/ex70.aig
+submissions/ucb/ex70          : i/o =   12/    3  lat =    0  and =    225  lev = 85
+Networks are equivalent.  Time =     0.11 sec
+abc - > read submissions/ucb/ex71.aig; print_stats; read_truth -xf benchmarks/ex71.truth; cec -n submissions/ucb/ex71.aig
+submissions/ucb/ex71          : i/o =   12/    3  lat =    0  and =    324  lev =110
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/ucb/ex72.aig; print_stats; read_truth -xf benchmarks/ex72.truth; cec -n submissions/ucb/ex72.aig
+submissions/ucb/ex72          : i/o =   12/    3  lat =    0  and =    369  lev =144
+Networks are equivalent.  Time =     0.93 sec
+abc - > read submissions/ucb/ex73.aig; print_stats; read_truth -xf benchmarks/ex73.truth; cec -n submissions/ucb/ex73.aig
+submissions/ucb/ex73          : i/o =   12/    3  lat =    0  and =    281  lev = 97
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/ucb/ex74.aig; print_stats; read_truth -xf benchmarks/ex74.truth; cec -n submissions/ucb/ex74.aig
+submissions/ucb/ex74          : i/o =   12/    3  lat =    0  and =    437  lev =129
+Networks are equivalent.  Time =     1.46 sec
+abc - > read submissions/ucb/ex75.aig; print_stats; read_truth -xf benchmarks/ex75.truth; cec -n submissions/ucb/ex75.aig
+submissions/ucb/ex75          : i/o =   12/    3  lat =    0  and =    477  lev =174
+Networks are equivalent.  Time =     1.02 sec
+abc - > read submissions/ucb/ex76.aig; print_stats; read_truth -xf benchmarks/ex76.truth; cec -n submissions/ucb/ex76.aig
+submissions/ucb/ex76          : i/o =   12/    3  lat =    0  and =    240  lev = 92
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/ucb/ex77.aig; print_stats; read_truth -xf benchmarks/ex77.truth; cec -n submissions/ucb/ex77.aig
+submissions/ucb/ex77          : i/o =   12/    3  lat =    0  and =    277  lev = 98
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/ucb/ex78.aig; print_stats; read_truth -xf benchmarks/ex78.truth; cec -n submissions/ucb/ex78.aig
+submissions/ucb/ex78          : i/o =   12/    3  lat =    0  and =    339  lev =103
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/ucb/ex79.aig; print_stats; read_truth -xf benchmarks/ex79.truth; cec -n submissions/ucb/ex79.aig
+submissions/ucb/ex79          : i/o =   12/    3  lat =    0  and =    332  lev =100
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/ucb/ex80.aig; print_stats; read_truth -xf benchmarks/ex80.truth; cec -n submissions/ucb/ex80.aig
+submissions/ucb/ex80          : i/o =   12/    3  lat =    0  and =    497  lev =117
+Networks are equivalent.  Time =     0.21 sec
+abc - > read submissions/ucb/ex81.aig; print_stats; read_truth -xf benchmarks/ex81.truth; cec -n submissions/ucb/ex81.aig
+submissions/ucb/ex81          : i/o =   12/    3  lat =    0  and =    326  lev = 96
+Networks are equivalent.  Time =     0.08 sec
+abc - > read submissions/ucb/ex82.aig; print_stats; read_truth -xf benchmarks/ex82.truth; cec -n submissions/ucb/ex82.aig
+submissions/ucb/ex82          : i/o =   12/    3  lat =    0  and =    572  lev =158
+Networks are equivalent.  Time =     1.32 sec
+abc - > read submissions/ucb/ex83.aig; print_stats; read_truth -xf benchmarks/ex83.truth; cec -n submissions/ucb/ex83.aig
+submissions/ucb/ex83          : i/o =   12/    3  lat =    0  and =    588  lev =174
+Networks are equivalent.  Time =     0.28 sec
+abc - > read submissions/ucb/ex84.aig; print_stats; read_truth -xf benchmarks/ex84.truth; cec -n submissions/ucb/ex84.aig
+submissions/ucb/ex84          : i/o =   12/    3  lat =    0  and =    134  lev = 39
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex85.aig; print_stats; read_truth -xf benchmarks/ex85.truth; cec -n submissions/ucb/ex85.aig
+submissions/ucb/ex85          : i/o =   12/    3  lat =    0  and =    202  lev = 75
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/ucb/ex86.aig; print_stats; read_truth -xf benchmarks/ex86.truth; cec -n submissions/ucb/ex86.aig
+submissions/ucb/ex86          : i/o =   12/    3  lat =    0  and =    172  lev = 61
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex87.aig; print_stats; read_truth -xf benchmarks/ex87.truth; cec -n submissions/ucb/ex87.aig
+submissions/ucb/ex87          : i/o =   12/    3  lat =    0  and =    372  lev =110
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/ucb/ex88.aig; print_stats; read_truth -xf benchmarks/ex88.truth; cec -n submissions/ucb/ex88.aig
+submissions/ucb/ex88          : i/o =   12/    3  lat =    0  and =    295  lev = 78
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/ucb/ex89.aig; print_stats; read_truth -xf benchmarks/ex89.truth; cec -n submissions/ucb/ex89.aig
+submissions/ucb/ex89          : i/o =   12/    3  lat =    0  and =    215  lev = 60
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/ucb/ex90.aig; print_stats; read_truth -xf benchmarks/ex90.truth; cec -n submissions/ucb/ex90.aig
+submissions/ucb/ex90          : i/o =   12/    3  lat =    0  and =    449  lev =125
+Networks are equivalent.  Time =     0.18 sec
+abc - > read submissions/ucb/ex91.aig; print_stats; read_truth -xf benchmarks/ex91.truth; cec -n submissions/ucb/ex91.aig
+submissions/ucb/ex91          : i/o =   12/    3  lat =    0  and =    240  lev = 61
+Networks are equivalent.  Time =     0.03 sec
+abc - > read submissions/ucb/ex92.aig; print_stats; read_truth -xf benchmarks/ex92.truth; cec -n submissions/ucb/ex92.aig
+submissions/ucb/ex92          : i/o =   10/    3  lat =    0  and =     30  lev = 17
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex93.aig; print_stats; read_truth -xf benchmarks/ex93.truth; cec -n submissions/ucb/ex93.aig
+submissions/ucb/ex93          : i/o =   12/    3  lat =    0  and =     47  lev = 14
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex94.aig; print_stats; read_truth -xf benchmarks/ex94.truth; cec -n submissions/ucb/ex94.aig
+submissions/ucb/ex94          : i/o =   11/    3  lat =    0  and =     39  lev = 13
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex95.aig; print_stats; read_truth -xf benchmarks/ex95.truth; cec -n submissions/ucb/ex95.aig
+submissions/ucb/ex95          : i/o =   11/    3  lat =    0  and =     66  lev = 21
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex96.aig; print_stats; read_truth -xf benchmarks/ex96.truth; cec -n submissions/ucb/ex96.aig
+submissions/ucb/ex96          : i/o =   12/    3  lat =    0  and =     77  lev = 22
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/ucb/ex97.aig; print_stats; read_truth -xf benchmarks/ex97.truth; cec -n submissions/ucb/ex97.aig
+submissions/ucb/ex97          : i/o =   12/    3  lat =    0  and =     70  lev = 26
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex98.aig; print_stats; read_truth -xf benchmarks/ex98.truth; cec -n submissions/ucb/ex98.aig
+submissions/ucb/ex98          : i/o =   12/    3  lat =    0  and =    144  lev = 46
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/ucb/ex99.aig; print_stats; read_truth -xf benchmarks/ex99.truth; cec -n submissions/ucb/ex99.aig
+submissions/ucb/ex99          : i/o =   12/    3  lat =    0  and =     91  lev = 36
+Networks are equivalent.  Time =     0.00 sec
