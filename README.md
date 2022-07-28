@@ -84,8 +84,8 @@ The winners are the three teams who received the highest [resulting scores](http
   * Team TUW
 
 An honorable mention goes to **Team UFRGS/UFPEL** for synthesizing circuits with the smallest number of 
-[logic levels](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/levels.txt), 
-which was not an official competitoin metric but nevertheless a great result.
+[logic levels](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/levels.txt). The logic 
+level count was not the official competition metric, but this is nevertheless a great result.
 
 Congratulations to the winners!
 
