@@ -65,7 +65,7 @@ The seven participants of the contest are listed in the alphabetical order of th
        
 ### Submissions
 
-With the participant's permission, the circuits submitted to the contest can be found [here](https://github.com/alanminko/iwls2022-ls-contest/tree/main/submissions).
+With the participants' permission, the circuits submitted to the contest can be found [here](https://github.com/alanminko/iwls2022-ls-contest/tree/main/submissions).
 
 ---
 
