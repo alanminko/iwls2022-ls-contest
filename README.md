@@ -17,7 +17,7 @@ and Walter Lau Neto (IWLS 2022 Contest Session Chair).
 
 ### Benchmarks
 
-The benchmarks available in this repository are composed of 100 functions in the text format: 
+The [benchmarks](https://github.com/alanminko/iwls2022-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions in the text format: 
 
 Benchnmark ID | Function Category
 ------------- | -----------------
@@ -33,12 +33,12 @@ Benchnmark ID | Function Category
 Further details about the benchmarks is not disclosed to the public because the next year's contest 
 (IWLS 2023 Programming Contest) may reuse the current benchmarks and/or propose similar ones.
 
-The goal of the future contest is expected to be similar (synthesizing minimal circuits for a set of 
-benchmark functions) while allowing for any two-input nodes (not only and-nodes, as in this year's contest).
+The goal of the future contest is expected to be similar (synthesizing minimal circuits) while allowing 
+for any two-input nodes (not only and-nodes, as in this year's contest).
   
-The details of the next year's contest (in particular, how two-input xor-nodes will be prepresented in the 
-traditional AIGER format, which allows only for two-input and-nodes) will be announced later. This preliminary 
-announcement it believed to be helpful because it gives future participants more time to plan and prepare in advance.
+The details of the next year's contest (in particular, how two-input xor-nodes will be prepresented using 
+the AIGER format, which only allows for two-input and-nodes) will be announced later. This preliminary 
+announcement it expected to motivate future participants to plan and prepare in advance.
 
 ---
 
@@ -69,13 +69,13 @@ With the participant's permission, the circuits submitted to the contest can be 
 
 ### Winners
 
-The results of the competition are summarized in the organizer's presentation 
+The results of the competition are summarized in the organizers' presentation 
 ([PDF](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Contest_Presentation.pdf),
 [YouTube](https://www.youtube.com/watch?v=BJ-72Nx9raw)).
 
 The winners are the three teams who received the highest [resulting scores](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/scores.txt) according to the [contest rules](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Programming_Contest.pdf):
 
-* **1st place** (score 9387) 
+* **1st place** (score 9388) 
   * Team EPFL
 * **2nd place** (score 9117) 
   * Team UCB
