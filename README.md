@@ -70,8 +70,7 @@ With the participant's permission, the circuits submitted to the contest can be 
 ### Winners
 
 The results of the competition are summarized in the organizer's presentation 
-([PDF](https://github.com/alanminko/iwls2022-ls-contest/IWLS_2022_Contest_Presentation.pdf), 
-[PPT](https://github.com/alanminko/iwls2022-ls-contest/IWLS_2022_Contest_Presentation.ppt),
+([PDF](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Contest_Presentation.pdf),
 [YouTube](https://www.youtube.com/watch?v=BJ-72Nx9raw)).
 
 The winners are the three teams who received the highest [resulting scores](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/scores.txt) according to the [contest rules](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Programming_Contest.pdf):
