@@ -44,6 +44,8 @@ announcement it expected to motivate future participants to plan and prepare in 
 
 ### Participants
 
+The seven participants of the contest are listed in the alphabetical order of the abbreviated name of their institution.
+
 * **Team EPFL** (École Polytechnique Fédérale de Lausanne)
   * Andrea Costamagna, Siang-Yun Lee, Alessandro Tempia Calvino, Hanyu Wang, Mingfei Yu, Professor Giovanni De Micheli
 * **Team Fudan** (Fudan University, Shanghai) 
