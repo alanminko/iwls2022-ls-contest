@@ -73,16 +73,16 @@ With the participant's permission, the circuits submitted to the contest can be 
 
 The results of the competition are summarized in the organizers' presentation 
 ([PDF](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Contest_Presentation.pdf),
-[YouTube](https://www.youtube.com/watch?v=BJ-72Nx9raw)).
+[Video](https://www.youtube.com/watch?v=BJ-72Nx9raw)).
 
 The winners are the three teams who received the highest [resulting scores](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/scores.txt) according to the [contest rules](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Programming_Contest.pdf):
 
-* **1st place** (score 9388) 
-  * Team EPFL
-* **2nd place** (score 9117) 
-  * Team UCB
-* **3rd place** (score 8320) 
-  * Team TUW
+* **1st place** (score 9388)
+  * Team EPFL -- Presentation [video](https://youtu.be/qUnB-01oMiQ)
+* **2nd place** (score 9117)
+  * Team UCB -- Presentation [video](https://www.youtube.com/watch?v=tK6SVAF2gMU) 
+* **3rd place** (score 8320)
+  * Team TUW -- Presentation [video](https://www.youtube.com/watch?v=BumyhlIKnHY) 
 
 An honorable mention goes to **Team UFRGS/UFPEL** for synthesizing circuits with the smallest number of 
 [logic levels](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/levels.txt). The logic 
