@@ -1,1 +1,300 @@
-
+abc - > read submissions/fudan/ex00.aig; print_stats; read_truth -xf benchmarks/ex00.truth; cec -n submissions/fudan/ex00.aig
+submissions/fudan/ex00        : i/o =    6/    1  lat =    0  and =     25  lev =  9
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex01.aig; print_stats; read_truth -xf benchmarks/ex01.truth; cec -n submissions/fudan/ex01.aig
+submissions/fudan/ex01        : i/o =    6/    1  lat =    0  and =     28  lev =  8
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex02.aig; print_stats; read_truth -xf benchmarks/ex02.truth; cec -n submissions/fudan/ex02.aig
+submissions/fudan/ex02        : i/o =    8/    1  lat =    0  and =    100  lev = 13
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex03.aig; print_stats; read_truth -xf benchmarks/ex03.truth; cec -n submissions/fudan/ex03.aig
+submissions/fudan/ex03        : i/o =    8/    1  lat =    0  and =     28  lev =  8
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex04.aig; print_stats; read_truth -xf benchmarks/ex04.truth; cec -n submissions/fudan/ex04.aig
+submissions/fudan/ex04        : i/o =   10/    1  lat =    0  and =    368  lev = 17
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/fudan/ex05.aig; print_stats; read_truth -xf benchmarks/ex05.truth; cec -n submissions/fudan/ex05.aig
+submissions/fudan/ex05        : i/o =   10/    1  lat =    0  and =     43  lev = 10
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex06.aig; print_stats; read_truth -xf benchmarks/ex06.truth; cec -n submissions/fudan/ex06.aig
+submissions/fudan/ex06        : i/o =   12/    1  lat =    0  and =   1097  lev = 20
+Networks are equivalent.  Time =     0.17 sec
+abc - > read submissions/fudan/ex07.aig; print_stats; read_truth -xf benchmarks/ex07.truth; cec -n submissions/fudan/ex07.aig
+submissions/fudan/ex07        : i/o =   12/    1  lat =    0  and =    193  lev = 22
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/fudan/ex08.aig; print_stats; read_truth -xf benchmarks/ex08.truth; cec -n submissions/fudan/ex08.aig
+submissions/fudan/ex08        : i/o =    8/    8  lat =    0  and =    590  lev = 13
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/fudan/ex09.aig; print_stats; read_truth -xf benchmarks/ex09.truth; cec -n submissions/fudan/ex09.aig
+submissions/fudan/ex09        : i/o =    8/    8  lat =    0  and =    607  lev = 13
+Networks are equivalent.  Time =     0.03 sec
+abc - > read submissions/fudan/ex10.aig; print_stats; read_truth -xf benchmarks/ex10.truth; cec -n submissions/fudan/ex10.aig
+submissions/fudan/ex10        : i/o =    5/    1  lat =    0  and =     10  lev =  5
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex11.aig; print_stats; read_truth -xf benchmarks/ex11.truth; cec -n submissions/fudan/ex11.aig
+submissions/fudan/ex11        : i/o =    7/    1  lat =    0  and =     20  lev =  8
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex12.aig; print_stats; read_truth -xf benchmarks/ex12.truth; cec -n submissions/fudan/ex12.aig
+submissions/fudan/ex12        : i/o =    9/    1  lat =    0  and =     33  lev =  9
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex13.aig; print_stats; read_truth -xf benchmarks/ex13.truth; cec -n submissions/fudan/ex13.aig
+submissions/fudan/ex13        : i/o =   11/    1  lat =    0  and =     50  lev = 13
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex14.aig; print_stats; read_truth -xf benchmarks/ex14.truth; cec -n submissions/fudan/ex14.aig
+submissions/fudan/ex14        : i/o =   13/    1  lat =    0  and =     79  lev = 21
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/fudan/ex15.aig; print_stats; read_truth -xf benchmarks/ex15.truth; cec -n submissions/fudan/ex15.aig
+submissions/fudan/ex15        : i/o =   15/    1  lat =    0  and =    104  lev = 22
+Networks are equivalent.  Time =     0.56 sec
+abc - > read submissions/fudan/ex16.aig; print_stats; read_truth -xf benchmarks/ex16.truth; cec -n submissions/fudan/ex16.aig
+submissions/fudan/ex16        : i/o =    5/    5  lat =    0  and =     18  lev =  5
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex17.aig; print_stats; read_truth -xf benchmarks/ex17.truth; cec -n submissions/fudan/ex17.aig
+submissions/fudan/ex17        : i/o =    6/    6  lat =    0  and =     28  lev =  7
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex18.aig; print_stats; read_truth -xf benchmarks/ex18.truth; cec -n submissions/fudan/ex18.aig
+submissions/fudan/ex18        : i/o =    7/    7  lat =    0  and =     38  lev =  8
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex19.aig; print_stats; read_truth -xf benchmarks/ex19.truth; cec -n submissions/fudan/ex19.aig
+submissions/fudan/ex19        : i/o =    8/    8  lat =    0  and =     52  lev = 11
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex20.aig; print_stats; read_truth -xf benchmarks/ex20.truth; cec -n submissions/fudan/ex20.aig
+submissions/fudan/ex20        : i/o =    9/    9  lat =    0  and =     68  lev = 12
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex21.aig; print_stats; read_truth -xf benchmarks/ex21.truth; cec -n submissions/fudan/ex21.aig
+submissions/fudan/ex21        : i/o =   10/   10  lat =    0  and =     86  lev = 15
+Networks are equivalent.  Time =     0.03 sec
+abc - > read submissions/fudan/ex22.aig; print_stats; read_truth -xf benchmarks/ex22.truth; cec -n submissions/fudan/ex22.aig
+submissions/fudan/ex22        : i/o =   11/   11  lat =    0  and =    108  lev = 16
+Networks are equivalent.  Time =     0.07 sec
+abc - > read submissions/fudan/ex23.aig; print_stats; read_truth -xf benchmarks/ex23.truth; cec -n submissions/fudan/ex23.aig
+submissions/fudan/ex23        : i/o =   12/   12  lat =    0  and =    130  lev = 19
+Networks are equivalent.  Time =     0.53 sec
+abc - > read submissions/fudan/ex24.aig; print_stats; read_truth -xf benchmarks/ex24.truth; cec -n submissions/fudan/ex24.aig
+submissions/fudan/ex24        : i/o =   13/   13  lat =    0  and =    154  lev = 21
+Networks are equivalent.  Time =     1.23 sec
+abc - > read submissions/fudan/ex25.aig; print_stats; read_truth -xf benchmarks/ex25.truth; cec -n submissions/fudan/ex25.aig
+submissions/fudan/ex25        : i/o =   14/   14  lat =    0  and =    182  lev = 24
+Networks are equivalent.  Time =     1.90 sec
+abc - > read submissions/fudan/ex26.aig; print_stats; read_truth -xf benchmarks/ex26.truth; cec -n submissions/fudan/ex26.aig
+submissions/fudan/ex26        : i/o =   15/   15  lat =    0  and =    208  lev = 24
+Networks are equivalent.  Time =     5.64 sec
+abc - > read submissions/fudan/ex27.aig; print_stats; read_truth -xf benchmarks/ex27.truth; cec -n submissions/fudan/ex27.aig
+submissions/fudan/ex27        : i/o =   16/   16  lat =    0  and =    241  lev = 28
+Networks are equivalent.  Time =     9.54 sec
+abc - > read submissions/fudan/ex28.aig; print_stats; read_truth -xf benchmarks/ex28.truth; cec -n submissions/fudan/ex28.aig
+submissions/fudan/ex28        : i/o =    7/   10  lat =    0  and =     45  lev = 11
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex29.aig; print_stats; read_truth -xf benchmarks/ex29.truth; cec -n submissions/fudan/ex29.aig
+submissions/fudan/ex29        : i/o =    9/    1  lat =    0  and =     39  lev =  9
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex30.aig; print_stats; read_truth -xf benchmarks/ex30.truth; cec -n submissions/fudan/ex30.aig
+submissions/fudan/ex30        : i/o =   14/    8  lat =    0  and =    412  lev = 16
+Networks are equivalent.  Time =     0.87 sec
+abc - > read submissions/fudan/ex31.aig; print_stats; read_truth -xf benchmarks/ex31.truth; cec -n submissions/fudan/ex31.aig
+submissions/fudan/ex31        : i/o =    9/   18  lat =    0  and =   1542  lev = 17
+Networks are equivalent.  Time =     0.08 sec
+abc - > read submissions/fudan/ex32.aig; print_stats; read_truth -xf benchmarks/ex32.truth; cec -n submissions/fudan/ex32.aig
+submissions/fudan/ex32        : i/o =   15/    9  lat =    0  and =     47  lev =  6
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex33.aig; print_stats; read_truth -xf benchmarks/ex33.truth; cec -n submissions/fudan/ex33.aig
+submissions/fudan/ex33        : i/o =    5/   28  lat =    0  and =    101  lev = 11
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex34.aig; print_stats; read_truth -xf benchmarks/ex34.truth; cec -n submissions/fudan/ex34.aig
+submissions/fudan/ex34        : i/o =    9/    5  lat =    0  and =     69  lev = 13
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex35.aig; print_stats; read_truth -xf benchmarks/ex35.truth; cec -n submissions/fudan/ex35.aig
+submissions/fudan/ex35        : i/o =    7/    2  lat =    0  and =     16  lev =  5
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex36.aig; print_stats; read_truth -xf benchmarks/ex36.truth; cec -n submissions/fudan/ex36.aig
+submissions/fudan/ex36        : i/o =   10/   10  lat =    0  and =   1733  lev = 16
+Networks are equivalent.  Time =     0.14 sec
+abc - > read submissions/fudan/ex37.aig; print_stats; read_truth -xf benchmarks/ex37.truth; cec -n submissions/fudan/ex37.aig
+submissions/fudan/ex37        : i/o =    8/   63  lat =    0  and =    165  lev =  9
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex38.aig; print_stats; read_truth -xf benchmarks/ex38.truth; cec -n submissions/fudan/ex38.aig
+submissions/fudan/ex38        : i/o =    8/    7  lat =    0  and =     34  lev =  9
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex39.aig; print_stats; read_truth -xf benchmarks/ex39.truth; cec -n submissions/fudan/ex39.aig
+submissions/fudan/ex39        : i/o =   14/   14  lat =    0  and =    516  lev = 14
+Networks are equivalent.  Time =     0.49 sec
+abc - > read submissions/fudan/ex40.aig; print_stats; read_truth -xf benchmarks/ex40.truth; cec -n submissions/fudan/ex40.aig
+submissions/fudan/ex40        : i/o =   16/   40  lat =    0  and =    288  lev = 14
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/fudan/ex41.aig; print_stats; read_truth -xf benchmarks/ex41.truth; cec -n submissions/fudan/ex41.aig
+submissions/fudan/ex41        : i/o =    5/    3  lat =    0  and =     21  lev =  7
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex42.aig; print_stats; read_truth -xf benchmarks/ex42.truth; cec -n submissions/fudan/ex42.aig
+submissions/fudan/ex42        : i/o =    7/    3  lat =    0  and =     38  lev = 14
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex43.aig; print_stats; read_truth -xf benchmarks/ex43.truth; cec -n submissions/fudan/ex43.aig
+submissions/fudan/ex43        : i/o =    8/    4  lat =    0  and =     62  lev =  8
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex44.aig; print_stats; read_truth -xf benchmarks/ex44.truth; cec -n submissions/fudan/ex44.aig
+submissions/fudan/ex44        : i/o =   10/    4  lat =    0  and =     89  lev = 11
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex45.aig; print_stats; read_truth -xf benchmarks/ex45.truth; cec -n submissions/fudan/ex45.aig
+submissions/fudan/ex45        : i/o =   16/   46  lat =    0  and =    309  lev = 15
+Networks are equivalent.  Time =     0.07 sec
+abc - > read submissions/fudan/ex46.aig; print_stats; read_truth -xf benchmarks/ex46.truth; cec -n submissions/fudan/ex46.aig
+submissions/fudan/ex46        : i/o =    5/    8  lat =    0  and =     32  lev =  9
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex47.aig; print_stats; read_truth -xf benchmarks/ex47.truth; cec -n submissions/fudan/ex47.aig
+submissions/fudan/ex47        : i/o =   16/    1  lat =    0  and =     25  lev =  6
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex48.aig; print_stats; read_truth -xf benchmarks/ex48.truth; cec -n submissions/fudan/ex48.aig
+submissions/fudan/ex48        : i/o =   14/   14  lat =    0  and =    801  lev = 17
+Networks are equivalent.  Time =     0.07 sec
+abc - > read submissions/fudan/ex49.aig; print_stats; read_truth -xf benchmarks/ex49.truth; cec -n submissions/fudan/ex49.aig
+submissions/fudan/ex49        : i/o =    7/   10  lat =    0  and =     47  lev = 10
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex50.aig; print_stats; read_truth -xf benchmarks/ex50.truth; cec -n submissions/fudan/ex50.aig
+submissions/fudan/ex50        : i/o =    8/    2  lat =    0  and =     18  lev =  7
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex51.aig; print_stats; read_truth -xf benchmarks/ex51.truth; cec -n submissions/fudan/ex51.aig
+submissions/fudan/ex51        : i/o =    8/    2  lat =    0  and =     36  lev = 10
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex52.aig; print_stats; read_truth -xf benchmarks/ex52.truth; cec -n submissions/fudan/ex52.aig
+submissions/fudan/ex52        : i/o =    8/    2  lat =    0  and =     19  lev =  7
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex53.aig; print_stats; read_truth -xf benchmarks/ex53.truth; cec -n submissions/fudan/ex53.aig
+submissions/fudan/ex53        : i/o =    8/    2  lat =    0  and =     44  lev = 11
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex54.aig; print_stats; read_truth -xf benchmarks/ex54.truth; cec -n submissions/fudan/ex54.aig
+submissions/fudan/ex54        : i/o =    8/    2  lat =    0  and =     13  lev =  5
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex55.aig; print_stats; read_truth -xf benchmarks/ex55.truth; cec -n submissions/fudan/ex55.aig
+submissions/fudan/ex55        : i/o =    8/    7  lat =    0  and =    186  lev = 11
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex56.aig; print_stats; read_truth -xf benchmarks/ex56.truth; cec -n submissions/fudan/ex56.aig
+submissions/fudan/ex56        : i/o =   12/    3  lat =    0  and =     29  lev = 10
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex57.aig; print_stats; read_truth -xf benchmarks/ex57.truth; cec -n submissions/fudan/ex57.aig
+submissions/fudan/ex57        : i/o =   12/    3  lat =    0  and =    233  lev = 24
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/fudan/ex58.aig; print_stats; read_truth -xf benchmarks/ex58.truth; cec -n submissions/fudan/ex58.aig
+submissions/fudan/ex58        : i/o =   12/    3  lat =    0  and =    120  lev = 13
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex59.aig; print_stats; read_truth -xf benchmarks/ex59.truth; cec -n submissions/fudan/ex59.aig
+submissions/fudan/ex59        : i/o =   12/    3  lat =    0  and =    407  lev = 18
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/fudan/ex60.aig; print_stats; read_truth -xf benchmarks/ex60.truth; cec -n submissions/fudan/ex60.aig
+submissions/fudan/ex60        : i/o =   12/    3  lat =    0  and =     73  lev = 11
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex61.aig; print_stats; read_truth -xf benchmarks/ex61.truth; cec -n submissions/fudan/ex61.aig
+submissions/fudan/ex61        : i/o =   12/   11  lat =    0  and =   1867  lev = 24
+Networks are equivalent.  Time =     1.95 sec
+abc - > read submissions/fudan/ex62.aig; print_stats; read_truth -xf benchmarks/ex62.truth; cec -n submissions/fudan/ex62.aig
+submissions/fudan/ex62        : i/o =   16/    4  lat =    0  and =     40  lev = 13
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex63.aig; print_stats; read_truth -xf benchmarks/ex63.truth; cec -n submissions/fudan/ex63.aig
+submissions/fudan/ex63        : i/o =   16/    4  lat =    0  and =   1101  lev = 31
+Networks are equivalent.  Time =     8.57 sec
+abc - > read submissions/fudan/ex64.aig; print_stats; read_truth -xf benchmarks/ex64.truth; cec -n submissions/fudan/ex64.aig
+submissions/fudan/ex64        : i/o =   16/    4  lat =    0  and =    848  lev = 23
+Networks are equivalent.  Time =     0.09 sec
+abc - > read submissions/fudan/ex65.aig; print_stats; read_truth -xf benchmarks/ex65.truth; cec -n submissions/fudan/ex65.aig
+submissions/fudan/ex65        : i/o =   16/    4  lat =    0  and =   1823  lev = 26
+Networks are equivalent.  Time =    11.91 sec
+abc - > read submissions/fudan/ex66.aig; print_stats; read_truth -xf benchmarks/ex66.truth; cec -n submissions/fudan/ex66.aig
+submissions/fudan/ex66        : i/o =   16/    4  lat =    0  and =    368  lev = 19
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/fudan/ex67.aig; print_stats; read_truth -xf benchmarks/ex67.truth; cec -n submissions/fudan/ex67.aig
+submissions/fudan/ex67        : i/o =   10/   77  lat =    0  and =   5474  lev = 19
+Networks are equivalent.  Time =     0.74 sec
+abc - > read submissions/fudan/ex68.aig; print_stats; read_truth -xf benchmarks/ex68.truth; cec -n submissions/fudan/ex68.aig
+submissions/fudan/ex68        : i/o =   12/    3  lat =    0  and =    304  lev = 19
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/fudan/ex69.aig; print_stats; read_truth -xf benchmarks/ex69.truth; cec -n submissions/fudan/ex69.aig
+submissions/fudan/ex69        : i/o =   12/    3  lat =    0  and =    405  lev = 21
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/fudan/ex70.aig; print_stats; read_truth -xf benchmarks/ex70.truth; cec -n submissions/fudan/ex70.aig
+submissions/fudan/ex70        : i/o =   12/    3  lat =    0  and =    354  lev = 25
+Networks are equivalent.  Time =     0.11 sec
+abc - > read submissions/fudan/ex71.aig; print_stats; read_truth -xf benchmarks/ex71.truth; cec -n submissions/fudan/ex71.aig
+submissions/fudan/ex71        : i/o =   12/    3  lat =    0  and =    421  lev = 20
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/fudan/ex72.aig; print_stats; read_truth -xf benchmarks/ex72.truth; cec -n submissions/fudan/ex72.aig
+submissions/fudan/ex72        : i/o =   12/    3  lat =    0  and =    683  lev = 24
+Networks are equivalent.  Time =     0.20 sec
+abc - > read submissions/fudan/ex73.aig; print_stats; read_truth -xf benchmarks/ex73.truth; cec -n submissions/fudan/ex73.aig
+submissions/fudan/ex73        : i/o =   12/    3  lat =    0  and =    461  lev = 20
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/fudan/ex74.aig; print_stats; read_truth -xf benchmarks/ex74.truth; cec -n submissions/fudan/ex74.aig
+submissions/fudan/ex74        : i/o =   12/    3  lat =    0  and =   1080  lev = 25
+Networks are equivalent.  Time =     1.20 sec
+abc - > read submissions/fudan/ex75.aig; print_stats; read_truth -xf benchmarks/ex75.truth; cec -n submissions/fudan/ex75.aig
+submissions/fudan/ex75        : i/o =   12/    3  lat =    0  and =    724  lev = 23
+Networks are equivalent.  Time =     0.18 sec
+abc - > read submissions/fudan/ex76.aig; print_stats; read_truth -xf benchmarks/ex76.truth; cec -n submissions/fudan/ex76.aig
+submissions/fudan/ex76        : i/o =   12/    3  lat =    0  and =    284  lev = 17
+Networks are equivalent.  Time =     0.02 sec
+abc - > read submissions/fudan/ex77.aig; print_stats; read_truth -xf benchmarks/ex77.truth; cec -n submissions/fudan/ex77.aig
+submissions/fudan/ex77        : i/o =   12/    3  lat =    0  and =    535  lev = 21
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/fudan/ex78.aig; print_stats; read_truth -xf benchmarks/ex78.truth; cec -n submissions/fudan/ex78.aig
+submissions/fudan/ex78        : i/o =   12/    3  lat =    0  and =    586  lev = 21
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/fudan/ex79.aig; print_stats; read_truth -xf benchmarks/ex79.truth; cec -n submissions/fudan/ex79.aig
+submissions/fudan/ex79        : i/o =   12/    3  lat =    0  and =    420  lev = 18
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/fudan/ex80.aig; print_stats; read_truth -xf benchmarks/ex80.truth; cec -n submissions/fudan/ex80.aig
+submissions/fudan/ex80        : i/o =   12/    3  lat =    0  and =    549  lev = 22
+Networks are equivalent.  Time =     0.18 sec
+abc - > read submissions/fudan/ex81.aig; print_stats; read_truth -xf benchmarks/ex81.truth; cec -n submissions/fudan/ex81.aig
+submissions/fudan/ex81        : i/o =   12/    3  lat =    0  and =    388  lev = 19
+Networks are equivalent.  Time =     0.06 sec
+abc - > read submissions/fudan/ex82.aig; print_stats; read_truth -xf benchmarks/ex82.truth; cec -n submissions/fudan/ex82.aig
+submissions/fudan/ex82        : i/o =   12/    3  lat =    0  and =    999  lev = 20
+Networks are equivalent.  Time =     0.28 sec
+abc - > read submissions/fudan/ex83.aig; print_stats; read_truth -xf benchmarks/ex83.truth; cec -n submissions/fudan/ex83.aig
+submissions/fudan/ex83        : i/o =   12/    3  lat =    0  and =    645  lev = 23
+Networks are equivalent.  Time =     0.26 sec
+abc - > read submissions/fudan/ex84.aig; print_stats; read_truth -xf benchmarks/ex84.truth; cec -n submissions/fudan/ex84.aig
+submissions/fudan/ex84        : i/o =   12/    3  lat =    0  and =    151  lev = 13
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex85.aig; print_stats; read_truth -xf benchmarks/ex85.truth; cec -n submissions/fudan/ex85.aig
+submissions/fudan/ex85        : i/o =   12/    3  lat =    0  and =    278  lev = 17
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex86.aig; print_stats; read_truth -xf benchmarks/ex86.truth; cec -n submissions/fudan/ex86.aig
+submissions/fudan/ex86        : i/o =   12/    3  lat =    0  and =    214  lev = 14
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex87.aig; print_stats; read_truth -xf benchmarks/ex87.truth; cec -n submissions/fudan/ex87.aig
+submissions/fudan/ex87        : i/o =   12/    3  lat =    0  and =    405  lev = 19
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/fudan/ex88.aig; print_stats; read_truth -xf benchmarks/ex88.truth; cec -n submissions/fudan/ex88.aig
+submissions/fudan/ex88        : i/o =   12/    3  lat =    0  and =    373  lev = 17
+Networks are equivalent.  Time =     0.04 sec
+abc - > read submissions/fudan/ex89.aig; print_stats; read_truth -xf benchmarks/ex89.truth; cec -n submissions/fudan/ex89.aig
+submissions/fudan/ex89        : i/o =   12/    3  lat =    0  and =    214  lev = 19
+Networks are equivalent.  Time =     0.05 sec
+abc - > read submissions/fudan/ex90.aig; print_stats; read_truth -xf benchmarks/ex90.truth; cec -n submissions/fudan/ex90.aig
+submissions/fudan/ex90        : i/o =   12/    3  lat =    0  and =   1023  lev = 18
+Networks are equivalent.  Time =     0.24 sec
+abc - > read submissions/fudan/ex91.aig; print_stats; read_truth -xf benchmarks/ex91.truth; cec -n submissions/fudan/ex91.aig
+submissions/fudan/ex91        : i/o =   12/    3  lat =    0  and =    296  lev = 19
+Networks are equivalent.  Time =     0.03 sec
+abc - > read submissions/fudan/ex92.aig; print_stats; read_truth -xf benchmarks/ex92.truth; cec -n submissions/fudan/ex92.aig
+submissions/fudan/ex92        : i/o =   10/    3  lat =    0  and =     32  lev =  9
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex93.aig; print_stats; read_truth -xf benchmarks/ex93.truth; cec -n submissions/fudan/ex93.aig
+submissions/fudan/ex93        : i/o =   12/    3  lat =    0  and =     50  lev = 11
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex94.aig; print_stats; read_truth -xf benchmarks/ex94.truth; cec -n submissions/fudan/ex94.aig
+submissions/fudan/ex94        : i/o =   11/    3  lat =    0  and =     42  lev = 15
+Networks are equivalent.  Time =     0.00 sec
+abc - > read submissions/fudan/ex95.aig; print_stats; read_truth -xf benchmarks/ex95.truth; cec -n submissions/fudan/ex95.aig
+submissions/fudan/ex95        : i/o =   11/    3  lat =    0  and =     69  lev = 11
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex96.aig; print_stats; read_truth -xf benchmarks/ex96.truth; cec -n submissions/fudan/ex96.aig
+submissions/fudan/ex96        : i/o =   12/    3  lat =    0  and =     85  lev = 12
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex97.aig; print_stats; read_truth -xf benchmarks/ex97.truth; cec -n submissions/fudan/ex97.aig
+submissions/fudan/ex97        : i/o =   12/    3  lat =    0  and =     70  lev = 15
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex98.aig; print_stats; read_truth -xf benchmarks/ex98.truth; cec -n submissions/fudan/ex98.aig
+submissions/fudan/ex98        : i/o =   12/    3  lat =    0  and =    222  lev = 17
+Networks are equivalent.  Time =     0.01 sec
+abc - > read submissions/fudan/ex99.aig; print_stats; read_truth -xf benchmarks/ex99.truth; cec -n submissions/fudan/ex99.aig
+submissions/fudan/ex99        : i/o =   12/    3  lat =    0  and =     94  lev = 14
+Networks are equivalent.  Time =     0.01 sec
