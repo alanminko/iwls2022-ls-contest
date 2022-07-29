@@ -4,9 +4,9 @@ This repository contains the benchmarks of IWLS 2022 Programming Contest and
 the circuits produced by the participants in response to the challenge.  
 
 The goal of the contest was to synthesize [AIGs](https://en.wikipedia.org/wiki/And-inverter_graph) 
-with the minimal number of two-input and-nodes for a set of completely-specified multi-output Boolean functions 
-represented using truth tables. The AIGs were submited in [binary AIGER format](http://fmv.jku.at/aiger/).
-For the detailed information about the rules and the evaluation criteria, please refer to the 
+with the minimal number of two-input and-nodes, for a set of completely-specified multi-output Boolean functions 
+represented using truth tables. The AIGs had to be submited in [binary AIGER format](http://fmv.jku.at/aiger/).
+For the detailed information about the rules and evaluation criteria, please refer to the 
 [contest description](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Programming_Contest.pdf).
 
 The contest was organized by Alan Mishchenko and Satrajit Chatterjee (IWLS 2022 Contest Chairs) 
@@ -17,7 +17,7 @@ and Walter Lau Neto (IWLS 2022 Contest Session Chair).
 
 ### Benchmarks
 
-The [benchmarks](https://github.com/alanminko/iwls2022-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions in the text format: 
+The [benchmarks](https://github.com/alanminko/iwls2022-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions with truth tables listed in a test file: 
 
 Benchnmark ID | Function Category
 ------------- | -----------------
