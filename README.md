@@ -17,7 +17,7 @@ and Walter Lau Neto (IWLS 2022 Contest Session Chair).
 
 ### Benchmarks
 
-The [benchmarks](https://github.com/alanminko/iwls2022-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions with truth tables listed in a test file: 
+The [benchmarks](https://github.com/alanminko/iwls2022-ls-contest/tree/main/benchmarks) available in this repository are composed of 100 functions with truth tables listed in a text file: 
 
 Benchnmark ID | Function Category
 ------------- | -----------------
