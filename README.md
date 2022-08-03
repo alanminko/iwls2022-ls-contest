@@ -1,7 +1,7 @@
 ## Problems and Results of IWLS 2022 Programming Contest
 
-This repository contains the benchmarks of IWLS 2022 Programming Contest and 
-the circuits produced by the participants in response to the challenge.  
+This repository contains the benchmarks of [IWLS 2022](https://www.iwls.org/iwls2022/program.php) 
+Programming Contest and the circuits produced by the participants in response to the challenge.  
 
 The goal of the contest was to synthesize [AIGs](https://en.wikipedia.org/wiki/And-inverter_graph) 
 with the minimal number of two-input and-nodes, for a set of completely-specified multi-output Boolean functions 
@@ -44,7 +44,7 @@ is expected to motivate future participants to plan and prepare in advance.
 
 ### Participants
 
-The seven participants of the contest are listed in the alphabetical order of the abbreviated name of their institution.
+The seven teams that participated in the contest are listed in the alphabetical order.
 
 * **Team EPFL** (École Polytechnique Fédérale de Lausanne)
   * Andrea Costamagna, Siang-Yun Lee, Alessandro Tempia Calvino, Hanyu Wang, Mingfei Yu, Professor Giovanni De Micheli
@@ -78,15 +78,15 @@ The results of the competition are summarized in the organizers' presentation
 The winners are the three teams who received the highest [resulting scores](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/scores.txt) according to the [contest rules](https://github.com/alanminko/iwls2022-ls-contest/blob/main/IWLS_2022_Programming_Contest.pdf):
 
 * **1st place** (score 9388)
-  * Team EPFL -- Presentation [video](https://youtu.be/qUnB-01oMiQ)
+  * Team EPFL -- presentation [video](https://youtu.be/qUnB-01oMiQ)
 * **2nd place** (score 9117)
-  * Team UCB -- Presentation [video](https://www.youtube.com/watch?v=tK6SVAF2gMU) 
+  * Team UCB -- presentation [video](https://www.youtube.com/watch?v=tK6SVAF2gMU) 
 * **3rd place** (score 8320)
-  * Team TUW -- Presentation [video](https://www.youtube.com/watch?v=BumyhlIKnHY) 
+  * Team TUW -- presentation [video](https://www.youtube.com/watch?v=BumyhlIKnHY) 
 
 An honorable mention goes to **Team UFRGS/UFPEL** for synthesizing circuits with the smallest number of 
-[logic levels](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/levels.txt). The logic 
-level count was not the official competition metric, but this is nevertheless a great result.
+[logic levels](https://github.com/alanminko/iwls2022-ls-contest/blob/main/submissions/levels.txt). 
+The logic level count was not the official competition metric, but this is nevertheless a great result.
 
 Congratulations to the winners!
 
